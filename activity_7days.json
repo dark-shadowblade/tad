@@ -413,8 +413,8 @@
       "end": "2026-10-01T23:46:46+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-10-02T01:27:42.810249+05:30",
   "last_seen": "2026-10-01T23:46:46+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-10-02T00:03:03.452906+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-10-02T01:27:42.810249+05:30"
 }
