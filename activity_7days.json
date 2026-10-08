@@ -257,8 +257,8 @@
       "end": "2026-10-08T05:40:10+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-10-08T05:42:29.001246+05:30",
   "last_seen": "2026-10-08T05:40:10+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-10-08T05:40:11.584614+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-10-08T05:42:29.001246+05:30"
 }
