@@ -353,8 +353,8 @@
       "end": "2026-10-11T04:41:17+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-10-11T04:41:44.234951+05:30",
   "last_seen": "2026-10-11T04:41:17+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-10-11T04:41:19.464779+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-10-11T04:41:44.234951+05:30"
 }
