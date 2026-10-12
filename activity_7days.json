@@ -677,8 +677,8 @@
       "end": "2026-10-13T03:59:00+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-10-13T03:59:56.784817+05:30",
   "last_seen": "2026-10-13T03:59:00+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-10-13T03:59:00.952784+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-10-13T03:59:56.784817+05:30"
 }
