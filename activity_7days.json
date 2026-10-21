@@ -993,8 +993,8 @@
       "end": "2026-10-22T05:15:59+05:30"
     }
   ],
-  "current_online_since": null,
+  "current_online_since": "2026-10-22T05:16:22.448829+05:30",
   "last_seen": "2026-10-22T05:15:59+05:30",
-  "last_status": "OFFLINE",
-  "updated_at": "2026-10-22T05:16:00.006380+05:30"
+  "last_status": "ONLINE",
+  "updated_at": "2026-10-22T05:16:22.448829+05:30"
 }
